@@ -1,0 +1,1 @@
+const event = new events.EventEmitter();
